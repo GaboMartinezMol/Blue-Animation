@@ -1,1 +1,1 @@
-# Blue-Animation
+# BlueAnimation
